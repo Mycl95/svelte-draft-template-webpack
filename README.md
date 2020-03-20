@@ -4,6 +4,10 @@ This is a project template for svelte-draft apps, and it's adapted from https://
 
 Online playground: https://codesandbox.io/s/svelte-draft-template-586o5
 
+## Rollup version
+
+If you are searching for a rollup template please see here: https://github.com/mistlog/svelte-draft-template
+
 ## Run
 
 ```shell

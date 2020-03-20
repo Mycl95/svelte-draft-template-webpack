@@ -3,3 +3,5 @@
 
 .DS_Store
 *.svelte
+package-lock.json
+yarn.lock
